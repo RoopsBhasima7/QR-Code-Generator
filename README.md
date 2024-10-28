@@ -13,6 +13,9 @@ A simple and user-friendly **QR Code Generator** built using JavaScript. This to
 ### Prerequisites
 To use the QR Code Generator, you just need a web browser.
 
+### Preview Image
+![QR Code Generator Preview](assets/qr-code-generator-preview.png)
+
 ### Installation
 1. Clone this repository:
    ```bash
